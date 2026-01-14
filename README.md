@@ -37,3 +37,8 @@ Genre by Book Rating Count
 Sales price by unit sold using Scatter plot 
 
 All plots were generated using Matplotlib and Seaborn after grouping the data with Pandas.
+
+🧸 Data Source
+Kaggle: https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings?resource=download
+
+
